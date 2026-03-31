@@ -1,4 +1,4 @@
-# 🧪 A/B Experimentation & Incentive Optimization
+#  A/B Experimentation & Incentive Optimization
 
 ## Problem
 
